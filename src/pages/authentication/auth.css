@@ -1,0 +1,6 @@
+.inputbox{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 45px;
+}
